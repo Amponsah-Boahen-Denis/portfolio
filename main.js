@@ -47,7 +47,11 @@ let clipNames = [
 
 
 let projects = [
-
+  {
+    image: 'textures/screenshot(120).png',
+    url: 'https://amponsah-boahen-denis.github.io/nearshop/',
+  },
+  
    {
     image: 'textures/password.png',
     url: 'https://fullstack-mern-front.vercel.app/',
@@ -59,10 +63,6 @@ let projects = [
   },
 
 
-  {
-    image: 'textures/template.png',
-    url: 'https://amponsah-boahen-denis.github.io/homepage-template/',
-  },
   {
     image: 'textures/customer.png',
     url: 'https://amponsah-boahen-denis.github.io/recordstracker-deploy/',
