@@ -47,16 +47,17 @@ let clipNames = [
 
 
 let projects = [
+
+   {
+    image: 'textures/password.png',
+    url: 'https://fullstack-mern-front.vercel.app/',
+  },
+  
   {
     image: 'textures/commerce.png',
     url: 'https://amponsah-boahen-denis.github.io/codsoft-task-2/',
   },
 
-
-  {
-    image: 'textures/password.png',
-    url: 'https://fullstack-mern-front.vercel.app/',
-  },
 
   {
     image: 'textures/template.png',
