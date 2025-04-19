@@ -47,20 +47,20 @@ let clipNames = [
 
 
 let projects = [
-  {
-    image: 'textures/screenshot(120).png',
-    url: 'https://amponsah-boahen-denis.github.io/nearshop/',
-  },
+  // {
+  //   image: 'textures/screenshot(120).png',
+  //   url: 'https://amponsah-boahen-denis.github.io/nearshop/',
+  // },
   
-   {
-    image: 'textures/password.png',
-    url: 'https://fullstack-mern-front.vercel.app/',
-  },
+  //  {
+  //   image: 'textures/password.png',
+  //   url: 'https://fullstack-mern-front.vercel.app/',
+  // },
   
-  {
-    image: 'textures/commerce.png',
-    url: 'https://amponsah-boahen-denis.github.io/codsoft-task-2/',
-  },
+  // {
+  //   image: 'textures/commerce.png',
+  //   url: 'https://amponsah-boahen-denis.github.io/codsoft-task-2/',
+  // },
 
 
   {
